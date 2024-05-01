@@ -1,0 +1,43 @@
+.card-sm {
+    border: 1px solid #CCC;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .card-title-sm {
+    margin: 0;
+    text-align: left;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 50;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  .card-author-sm {
+    margin-top: 0px;
+    font-size: 0.8em;
+    text-align: left;
+    color: #666;
+    font-size: 10px;
+  }
+  
+  .card-separator-sm {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #CCC;
+    margin: 1em 0;
+    padding: 0;
+  }
+  
+  .card-image-sm {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .card-description-sm {
+    margin: 10px 0;
+    font-size: 9.5px;
+    text-align: left;
+
+  }

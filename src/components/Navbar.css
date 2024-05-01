@@ -1,0 +1,60 @@
+.nav h1 {
+    font-family: 'Abril Fatface', cursive;
+    margin: 0px;
+    margin-top: 20px;
+    font-weight: 300;
+}
+.nav p{
+    font-family: 'PT Serif', sans serif;
+    font-style: italic;
+    margin: 0px;
+}
+.nav-line{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42%;
+}
+.nav hr {
+    width: 65%;
+    margin-bottom: 0;
+    border: 1px solid black;
+}
+.nav-line p{
+    font-family: 'PT Serif', sans serif;
+    font-style: normal;
+    font-size: 13px;
+}
+.navbar hr{
+    width: 65%;
+    margin-top: 0;
+    border: 0.2px solid rgba(198, 198, 198, 0.447);
+}
+.navbar ul{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    font-size: 12px;
+    justify-content: center;
+    
+    margin: 0;
+}
+.navbar li{
+    display: flex;
+    height: 40px;
+    align-items: center;
+    padding: 0px 20px 0px 20px;
+    margin: 0px 5px 0px 5px;
+}
+.navbar li:hover{
+    background-color: rgba(218, 218, 218, 0.396);
+}
+
+.navbar select{
+    border: none;
+    border-radius: 0;
+}
+.navbar select option{
+    height: 30px;
+    width: 100%;
+}
